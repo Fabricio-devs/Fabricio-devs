@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi! I’m Fabricio
 
-<!--
-**Fabricio-devs/Fabricio-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 24-year-old developer from Argentina, passionate about technology, problem-solving, and building real projects that actually work and add value. I’m constantly learning, improving my coding skills, and exploring new areas of software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goal  
+My main objective is to become a **Full-Stack Developer**, combining backend logic with frontend aesthetics and user experience.
+
+---
+
+## 🧠 Currently Learning  
+- Full-stack concepts  
+- Software architecture  
+- Clean and maintainable code  
+- Advanced Python techniques  
+
+---
+
+## 🛠️ Technologies I use  
+- Python
+- Linux (terminal, development environment)
+- SOLID principles
+- Git  
+- VS Code 
+
+---
+
+## 📈 What you’ll find in my repos  
+✔️ Real functional projects  
+✔️ Well-structured code  
+✔️ Clear documentation and comments  
+✔️ Practical applications and prototypes  
+
+---
+
+## 📫 Contact  
+- Mail: fabricio.dev.py@gmail.com
+
+If you want to connect, collaborate, or check out my work:  
+➡️ GitHub: *you are already here 😄*  
+
+---
+
+### 🙌 Thanks for visiting my profile!
