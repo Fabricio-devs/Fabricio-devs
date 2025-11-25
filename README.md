@@ -36,6 +36,7 @@ My main objective is to become a **Full-Stack Developer**, combining backend log
 
 ## 📫 Contact  
 - Mail: fabricio.dev.py@gmail.com
+- LinkedIn: https://www.linkedin.com/in/fabricio-cardozo-ba5a47281/
 
 If you want to connect, collaborate, or check out my work:  
 ➡️ GitHub: *you are already here 😄*  
