@@ -56,7 +56,7 @@
 
 ### 🤝 Let’s connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabricio%20Cardozo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-cardozo-ba5a47281/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabricio%20Cardozo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabricio-cardozo-dev)  
 [![Email](https://img.shields.io/badge/Email-fabricio.dev.py%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabricio.dev.py@gmail.com)
 
 ---
