@@ -1,6 +1,10 @@
-<p align="center">
-  <strong><span style="font-size: 28px; color:#00ffc8; font-family: monospace;">Fabricio — Learning, building, improving</span></strong>
-</p>
+<div align="center">
+
+# <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+Fabricio — Learning, building, improving
+</span>
+
+</div>
 
 
 <p align="center">
