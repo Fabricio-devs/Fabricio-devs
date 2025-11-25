@@ -1,10 +1,9 @@
 <div align="center">
 
-# <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-Fabricio — Learning, building, improving
-</span>
+# <span style="color:#7dd3fc">Fabricio</span> — <span style="color:#a78bfa">Learning</span>, <span style="color:#f472b6">building</span>, <span style="color:#4ade80">improving</span>
 
 </div>
+
 
 
 <p align="center">
