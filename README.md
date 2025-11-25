@@ -1,4 +1,4 @@
-# 👋 Hi! I’m Fabricio
+# Fabricio — Aspiring Full-Stack Developer
 
 I’m a 24-year-old developer from Argentina, passionate about technology, problem-solving, and building real projects that actually work and add value. I’m constantly learning, improving my coding skills, and exploring new areas of software development.
 
